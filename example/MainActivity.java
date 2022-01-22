@@ -1,5 +1,3 @@
-package com.studyAll.test0;
-
 import android.app.*;
 import android.os.*;
 import android.widget.*;
