@@ -1,5 +1,3 @@
-package com.studyAll.test0;
-
 public class ConsoleStatus
 {
 	//IO Status
