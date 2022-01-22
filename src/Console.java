@@ -1,4 +1,3 @@
-package com.studyAll.test0;
 import android.widget.*;
 import android.text.method.*;
 import android.view.*;
